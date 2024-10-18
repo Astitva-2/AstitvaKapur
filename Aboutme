@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+</head>
+<h1>About Me</h1>
+<body>
+ <p>Hi everyone</p> 
+    <p><strong>Name:</strong>Astitva Kapur</p>
+    <p><strong>Age:</strong> 14</p>
+    <p><strong>Location:</strong> Dublin CA</p>
+    <p><strong>Hobbies:</strong> Video Games, Track and Field</p>
+    <p><strong>Contact: kapur2888@mydusd.org</strong> </p>
+    <h2>Career Goal: </h2>
+    
+    Have you ever seen the stock market go up and people making tons of money? That’s the life of an investor, and it really interests me. I want to understand how the market works and learn which shares are worth buying. To start, I plan to read books and articles about investing. During the summer or school breaks, I’d like to practice trading in the stock market with my dad to gain hands-on experience.
+    <p></p>
+    <h2>Strengths and personal qualities:</h2>
+        I have some qualities that will help me in this career. Being open-minded allows me to consider different perspectives from other investors. I’m also a risk-taker, which means I’m willing to make bold moves for potential gains. Additionally, being punctual is crucial; quick decision-making can save me from losing too much money when prices drop. Overall, these qualities will support me as I navigate the ups and downs of the stock market.</p>
+    <h2>Important achievements:</h2>
+    In my first year of high school, I’m excited to join the track and field team, where I’ll develop my teamwork and discipline. I also plan to participate in a NASA club to explore my interest in science and technology. Academically, I’m focused on maintaining high grades in Algebra 2, which is helping me strengthen my analytical skills. Outside of school, being involved in SmileCard has taught me empathy and the importance of appreciating what I have. Overall, these experiences have shaped my character and prepared me for future challenges.
+    </p>
+    <h2>Conclusion:</h2>
+     In conclusion, my passion for investing, combined with the qualities I’ve developed through my experiences in academics, track, and extracurricular activities, has shaped my vision for the future. I believe that with the skills I've honed—such as being open-minded, a risk-taker, and punctual—I’m on the right path to achieving my career goals. I'm excited to continue learning and growing, both in the stock market and in life, with each experience teaching me something valuable.</p>
+     <img src="Astitva.jpg" alt="Profile Picture" width="50">
+<br>
+    <p></p>
+</body>
+</html>
